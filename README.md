@@ -1,5 +1,5 @@
 # 💫 About Me:
-✌️Bem vindo ao meu Perfil do GitHub, me chamo Leonardo e sou programador Front-end e RPA! Atualmente estou estudando TypeScript e NestJS para me tornar um programador Full-Stack 💻
+✌️Bem vindo ao meu Perfil do GitHub, me chamo Leonardo e sou programador Full Stack!💻
 
 
 ## 🌐 Socials:
